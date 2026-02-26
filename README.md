@@ -52,7 +52,8 @@ This security system is built around the **PIC16F877A** microcontroller. It uses
 
 ## 🔌 Circuit Diagram
 
-*(Add circuit diagram image here)*
+![Circuit Diagram](Images/Circuit_Diagram.jpg)
+
 
 ### Pin Connections
 
