@@ -52,7 +52,7 @@ When the correct password is entered, an LED blinks to indicate successful acces
 ---
 
 ## 🔌 Circuit Diagram
-![Circuit Diagram](Images/Circuit_Diagram.jpg)  
+![Circuit-Diagram](Images/Circuit-Diagram.jpg)  
 *Pin connections and overall schematic for PIC16F877A Security System.*
 
 ### Pin Connections
